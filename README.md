@@ -41,30 +41,54 @@ Estou sempre em busca de novos desafios e oportunidades para crescer como desenv
 
 ## Experiência Profissional
 
-### Doutor-IE | Inteligência Automotiva
-**Programador de software** (Jan 2024 - Presente)  
-Florianópolis, Santa Catarina, Brasil  
-Trabalho no back-end usando Laravel e Docker para melhorar a eficiência e escalabilidade dos projetos. No front-end, utilizo Flutter para criar interfaces responsivas e atraentes.
+## 🏢 Doutor-IE | Inteligência Automotiva  
+**🖥️ Programador de Software**  
+📅 *Jan 2024 - Presente*  
+📍 Florianópolis, Santa Catarina, Brasil  
 
-### Medcontábil | Serviços Contábeis para Médicos
-**Programador de sistemas sênior** (Jul 2021 - Presente)  
-Maringá, Paraná, Brasil  
-Desenvolvimento de microserviços e automação de tarefas manuais usando Laravel e Docker. Infraestrutura hospedada na AWS, com integração de APIs de pagamento e banco.
+### ⚙️ Tecnologias Utilizadas:
+- **Back-end**: Desenvolvimento com **Laravel**, utilizando **Docker** para garantir escalabilidade e eficiência.
+- **Front-end**: Criação de interfaces de usuário com **Flutter**,  proporcionando uma experiência de usuário fluida e intuitiva.
 
-### Arquivex
-**Programador de sistemas sênior** (Out 2020 - Presente)  
-Porteirinha, Minas Gerais, Brasil  
-Desenvolvimento de um sistema de ponto eletrônico e de gestão de arquivos utilizando Laravel e Vue.js. [Arquivex.com](https://arquivex.com)
+## 🏢 Medcontábil | Serviços Contábeis para Médicos  
+**🖥️ Programador de Sistemas Sênior**  
+📅 *Jul 2021 - Presente*  
+📍 Maringá, Paraná, Brasil  
 
-### Bora Ticket Store
-**Especialista de tecnologia em eventos** (Out 2022 - Abr 2023)  
-Mato Grosso do Sul, Brasil  
-Desenvolvi um sistema completo de gestão de eventos, integrando Pagar.me para pagamento e validação de ingressos na portaria via aplicativo.
+### ⚙️ Tecnologias Utilizadas:
+- Desenvolvimento de um sistema de contabilidade completo, automatizando tarefas manuais com **Laravel** e **Docker**.
+- Infraestrutura hospedada na **AWS**, integrando **APIs de pagamento** e serviços bancários.
 
-### Universidad Central del Paraguay
-**Programador de sistemas** (Dez 2019 - Mai 2021)  
-Pedro Juan Caballero, Paraguai  
-Desenvolvi a plataforma virtual da universidade, desde a parte financeira até a acadêmica, utilizando Laravel e Vue.js.
+---
+
+## 🏢 Arquivex  
+**🖥️ Programador de Sistemas Sênior**  
+📅 *Out 2020 - Presente*  
+📍 Porteirinha, Minas Gerais, Brasil  
+🔗 [Arquivex.com](https://arquivex.com)
+
+### ⚙️ Tecnologias Utilizadas:
+- Desenvolvimento de um sistema de ponto eletrônico e gestão de arquivos usando **Laravel** e **Vue.js**.
+
+---
+
+## 🏢 Bora Ticket Store  
+**🖥️ Especialista de Tecnologia em Eventos**  
+📅 *Out 2022 - Abr 2023*  
+📍 Mato Grosso do Sul, Brasil  
+
+### ⚙️ Tecnologias Utilizadas:
+- Desenvolvimento de um sistema completo de gestão de eventos, com integração do **Pagar.me** para processamento de pagamentos e validação de ingressos via aplicativo.
+
+---
+
+## 🏢 Universidad Central del Paraguay  
+**🖥️ Programador de Sistemas**  
+📅 *Dez 2019 - Mai 2021*  
+📍 Pedro Juan Caballero, Paraguai  
+
+### ⚙️ Tecnologias Utilizadas:
+- Desenvolvimento da plataforma virtual da universidade, abrangendo módulos financeiros e acadêmicos, utilizando **Laravel** e **Vue.js**.
 
 ---
 
