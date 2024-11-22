@@ -32,13 +32,6 @@ Sou um **Programador Fullstack** com experiência em diversas tecnologias e fram
 
 Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor. Se você tem um projeto interessante ou uma oportunidade de colaboração, sinta-se à vontade para entrar em contato!
 
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stanier-hub&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Stanier-hub)
-
----
-
 ## Experiência Profissional
 
 ## 🏢 Doutor-IE | Inteligência Automotiva  
